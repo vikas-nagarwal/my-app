@@ -76,7 +76,7 @@ function Productapi() {
       {/* HEADER */}
       <div className="row align-items-center mb-4">
         <div className="col-md-4">
-          <h1>{translations[lang].title}</h1>
+          <h1>{translations[lang].title.toUpperCase().split("").join(" ")} </h1>{" "}
         </div>
 
         <div className="col-md-4">
