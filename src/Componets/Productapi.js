@@ -72,82 +72,100 @@ function Productapi() {
   }, [displayProducts]);
 
   return (
-    <div className="container my-4">
-      {/* HEADER */}
-      <div className="row align-items-center mb-4">
-        <div className="col-md-4">
-          <h1>{translations[lang].title.toUpperCase().split("").join(" ")} </h1>{" "}
+    <>
+      {" "}
+      <div className="container my-4">
+        {/* HEADER */}
+        <div className="row align-items-center mb-4">
+          <div className="col-md-4">
+            <h1>
+              {translations[lang].title
+                .toUpperCase()
+                .split("") // split every character
+                .map((char) => (char === " " ? "  " : char)) // double space for original spaces
+                .join(" ")}
+            </h1>
+          </div>
+
+          <div className="col-md-4">
+            <select
+              className="form-select"
+              value={lang}
+              onChange={(e) => changeLanguage(e.target.value)}
+            >
+              <option value="en">English</option>
+              <option value="hi">Hindi</option>
+            </select>
+          </div>
+
+          <div className="col-md-4">
+            <input
+              type="text"
+              className="form-control"
+              placeholder={translations[lang].search}
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+            />
+          </div>
         </div>
 
-        <div className="col-md-4">
-          <select
-            className="form-select"
-            value={lang}
-            onChange={(e) => changeLanguage(e.target.value)}
-          >
-            <option value="en">English</option>
-            <option value="hi">Hindi</option>
-          </select>
-        </div>
+        {/* MAIN LAYOUT */}
+        <div className="row">
+          {/* Sidebar */}
+          <div className="col-md-3">
+            <Sidebar
+              categories={categories}
+              selectedCategory={selectedCategory}
+              setSelectedCategory={setSelectedCategory}
+            />
+          </div>
 
-        <div className="col-md-4">
-          <input
-            type="text"
-            className="form-control"
-            placeholder={translations[lang].search}
-            value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
-          />
-        </div>
-      </div>
-
-      {/* MAIN LAYOUT */}
-      <div className="row">
-        {/* Sidebar */}
-        <div className="col-md-3">
-          <Sidebar
-            categories={categories}
-            selectedCategory={selectedCategory}
-            setSelectedCategory={setSelectedCategory}
-          />
-        </div>
-
-        {/* Product Grid */}
-        <div className="col-md-9">
-          <div
-            ref={gridRef}
-            className="row g-3" // use row for Bootstrap grid
-          >
-            {filteredData.length > 0 ? (
-              filteredData.map((product) => (
-                <div
-                  key={product.id}
-                  className="product-card col-lg-3 col-md-4 col-sm-6"
-                  data-id={product.id}
-                  style={{ cursor: "grab" }}
-                  onClick={() => navigate(`/product/${product.id}`)}
-                >
-                  <div className="card h-100">
-                    <img
-                      src={product.thumbnail}
-                      className="card-img-top"
-                      alt={product.title}
-                    />
-                    <div className="card-body">
-                      <h6>{product.title}</h6>
-                      <p className="text-danger">${product.price}</p>
-                      <small>{product.brand}</small>
+          {/* Product Grid */}
+          <div className="col-md-9">
+            <div
+              ref={gridRef}
+              className="row g-3" // use row for Bootstrap grid
+            >
+              {filteredData.length > 0 ? (
+                filteredData.map((product) => (
+                  <div
+                    key={product.id}
+                    className="product-card col-lg-3 col-md-4 col-sm-6"
+                    data-id={product.id}
+                    style={{ cursor: "grab" }}
+                    onClick={() => navigate(`/product/${product.id}`)}
+                  >
+                    <div className="card h-100">
+                      <img
+                        src={product.thumbnail}
+                        className="card-img-top"
+                        alt={product.title}
+                      />
+                      <div className="card-body">
+                        <h6>{product.title}</h6>
+                        <p className="text-danger">${product.price}</p>
+                        <small>{product.brand}</small>
+                      </div>
                     </div>
                   </div>
-                </div>
-              ))
-            ) : (
-              <h5 className="text-center">{translations[lang].noProduct}</h5>
-            )}
+                ))
+              ) : (
+                <h5 className="text-center">{translations[lang].noProduct}</h5>
+              )}
+            </div>
           </div>
         </div>
       </div>
-    </div>
+      <div className="pagination my-4">
+        <div className="container">
+          <div className="row justify-content-center">
+            <div className="col-auto">
+              <h1>vikas</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+    </>
   );
 }
 
