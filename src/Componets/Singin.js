@@ -76,7 +76,7 @@ function Signin() {
             className="btn btn-warning w-100 fw-semibold"
             onClick={handleLogin}
           >
-            Continueeeee
+            Continue
           </button>
 
           {result && (
