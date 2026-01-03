@@ -1,0 +1,4403 @@
+{
+    "language": "hi",
+    "products": [
+        {
+            "id": 1,
+            "title": "Essence Mascara Lash Princess (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+            "category": "सामान्य",
+            "price": 9.99,
+            "discountPercentage": 10.48,
+            "rating": 2.56,
+            "stock": 99,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Essence",
+            "sku": "SKU-1",
+            "weight": 3,
+            "dimensions": {
+                "width": 21,
+                "height": 28,
+                "depth": 26
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 1211248179090
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/beauty\/essence-mascara-lash-princess\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/beauty\/essence-mascara-lash-princess\/thumbnail.webp"
+        },
+        {
+            "id": 2,
+            "title": "Eyeshadow Palette with Mirror (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+            "category": "सामान्य",
+            "price": 19.99,
+            "discountPercentage": 18.19,
+            "rating": 2.86,
+            "stock": 34,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Glamour Beauty",
+            "sku": "SKU-2",
+            "weight": 3,
+            "dimensions": {
+                "width": 25,
+                "height": 22,
+                "depth": 26
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 1370608793428
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/beauty\/eyeshadow-palette-with-mirror\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/beauty\/eyeshadow-palette-with-mirror\/thumbnail.webp"
+        },
+        {
+            "id": 3,
+            "title": "Powder Canister (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+            "category": "सामान्य",
+            "price": 14.99,
+            "discountPercentage": 9.84,
+            "rating": 4.64,
+            "stock": 89,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Velvet Touch",
+            "sku": "SKU-3",
+            "weight": 4,
+            "dimensions": {
+                "width": 14,
+                "height": 11,
+                "depth": 21
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 3456540212645
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/beauty\/powder-canister\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/beauty\/powder-canister\/thumbnail.webp"
+        },
+        {
+            "id": 4,
+            "title": "Red Lipstick (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+            "category": "सामान्य",
+            "price": 12.99,
+            "discountPercentage": 12.16,
+            "rating": 4.36,
+            "stock": 91,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Chic Cosmetics",
+            "sku": "SKU-4",
+            "weight": 1,
+            "dimensions": {
+                "width": 14,
+                "height": 19,
+                "depth": 20
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 3919673489652
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/beauty\/red-lipstick\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/beauty\/red-lipstick\/thumbnail.webp"
+        },
+        {
+            "id": 5,
+            "title": "Red Nail Polish (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+            "category": "सामान्य",
+            "price": 8.99,
+            "discountPercentage": 11.44,
+            "rating": 4.32,
+            "stock": 79,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Nail Couture",
+            "sku": "SKU-5",
+            "weight": 1,
+            "dimensions": {
+                "width": 20,
+                "height": 28,
+                "depth": 14
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 3670822091263
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/beauty\/red-nail-polish\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/beauty\/red-nail-polish\/thumbnail.webp"
+        },
+        {
+            "id": 6,
+            "title": "Calvin Klein CK One (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+            "category": "सामान्य",
+            "price": 49.99,
+            "discountPercentage": 1.89,
+            "rating": 4.37,
+            "stock": 29,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Calvin Klein",
+            "sku": "SKU-6",
+            "weight": 1,
+            "dimensions": {
+                "width": 28,
+                "height": 20,
+                "depth": 26
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6787436833910
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/calvin-klein-ck-one\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/calvin-klein-ck-one\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/calvin-klein-ck-one\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/calvin-klein-ck-one\/thumbnail.webp"
+        },
+        {
+            "id": 7,
+            "title": "Chanel Coco Noir Eau De (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+            "category": "सामान्य",
+            "price": 129.99,
+            "discountPercentage": 16.51,
+            "rating": 4.26,
+            "stock": 58,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Chanel",
+            "sku": "SKU-7",
+            "weight": 3,
+            "dimensions": {
+                "width": 13,
+                "height": 30,
+                "depth": 12
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 1329114863406
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/chanel-coco-noir-eau-de\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/chanel-coco-noir-eau-de\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/chanel-coco-noir-eau-de\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/chanel-coco-noir-eau-de\/thumbnail.webp"
+        },
+        {
+            "id": 8,
+            "title": "Dior J'adore (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+            "category": "सामान्य",
+            "price": 89.99,
+            "discountPercentage": 14.72,
+            "rating": 3.8,
+            "stock": 98,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Dior",
+            "sku": "SKU-8",
+            "weight": 4,
+            "dimensions": {
+                "width": 21,
+                "height": 21,
+                "depth": 29
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6983028673683
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/dior-j'adore\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/dior-j'adore\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/dior-j'adore\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/dior-j'adore\/thumbnail.webp"
+        },
+        {
+            "id": 9,
+            "title": "Dolce Shine Eau de (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+            "category": "सामान्य",
+            "price": 69.99,
+            "discountPercentage": 0.62,
+            "rating": 3.96,
+            "stock": 4,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Dolce & Gabbana",
+            "sku": "SKU-9",
+            "weight": 1,
+            "dimensions": {
+                "width": 29,
+                "height": 22,
+                "depth": 11
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 1987859316774
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/dolce-shine-eau-de\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/dolce-shine-eau-de\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/dolce-shine-eau-de\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/dolce-shine-eau-de\/thumbnail.webp"
+        },
+        {
+            "id": 10,
+            "title": "Gucci Bloom Eau de (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+            "category": "सामान्य",
+            "price": 79.99,
+            "discountPercentage": 14.39,
+            "rating": 2.74,
+            "stock": 91,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Gucci",
+            "sku": "SKU-10",
+            "weight": 2,
+            "dimensions": {
+                "width": 25,
+                "height": 30,
+                "depth": 12
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6441592962272
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/gucci-bloom-eau-de\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/gucci-bloom-eau-de\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/gucci-bloom-eau-de\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/fragrances\/gucci-bloom-eau-de\/thumbnail.webp"
+        },
+        {
+            "id": 11,
+            "title": "Annibale Colombo Bed (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+            "category": "सामान्य",
+            "price": 1899.99,
+            "discountPercentage": 8.57,
+            "rating": 4.77,
+            "stock": 88,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Annibale Colombo",
+            "sku": "SKU-11",
+            "weight": 1,
+            "dimensions": {
+                "width": 12,
+                "height": 22,
+                "depth": 30
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 2088128080961
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/annibale-colombo-bed\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/annibale-colombo-bed\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/annibale-colombo-bed\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/annibale-colombo-bed\/thumbnail.webp"
+        },
+        {
+            "id": 12,
+            "title": "Annibale Colombo Sofa (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+            "category": "सामान्य",
+            "price": 2499.99,
+            "discountPercentage": 14.4,
+            "rating": 3.92,
+            "stock": 60,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Annibale Colombo",
+            "sku": "SKU-12",
+            "weight": 5,
+            "dimensions": {
+                "width": 26,
+                "height": 24,
+                "depth": 28
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 4133289623327
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/annibale-colombo-sofa\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/annibale-colombo-sofa\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/annibale-colombo-sofa\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/annibale-colombo-sofa\/thumbnail.webp"
+        },
+        {
+            "id": 13,
+            "title": "Bedside Table African Cherry (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+            "category": "सामान्य",
+            "price": 299.99,
+            "discountPercentage": 19.09,
+            "rating": 2.87,
+            "stock": 64,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Furniture Co.",
+            "sku": "SKU-13",
+            "weight": 1,
+            "dimensions": {
+                "width": 23,
+                "height": 12,
+                "depth": 14
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9554362940518
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/bedside-table-african-cherry\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/bedside-table-african-cherry\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/bedside-table-african-cherry\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/bedside-table-african-cherry\/thumbnail.webp"
+        },
+        {
+            "id": 14,
+            "title": "Knoll Saarinen Executive Conference Chair (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+            "category": "सामान्य",
+            "price": 499.99,
+            "discountPercentage": 2.01,
+            "rating": 4.88,
+            "stock": 26,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Knoll",
+            "sku": "SKU-14",
+            "weight": 2,
+            "dimensions": {
+                "width": 10,
+                "height": 11,
+                "depth": 26
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 4223115991323
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/knoll-saarinen-executive-conference-chair\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/knoll-saarinen-executive-conference-chair\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/knoll-saarinen-executive-conference-chair\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/knoll-saarinen-executive-conference-chair\/thumbnail.webp"
+        },
+        {
+            "id": 15,
+            "title": "Wooden Bathroom Sink With Mirror (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+            "category": "सामान्य",
+            "price": 799.99,
+            "discountPercentage": 8.8,
+            "rating": 3.59,
+            "stock": 7,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Bath Trends",
+            "sku": "SKU-15",
+            "weight": 5,
+            "dimensions": {
+                "width": 12,
+                "height": 12,
+                "depth": 27
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 3155479601415
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/wooden-bathroom-sink-with-mirror\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/wooden-bathroom-sink-with-mirror\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/wooden-bathroom-sink-with-mirror\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/furniture\/wooden-bathroom-sink-with-mirror\/thumbnail.webp"
+        },
+        {
+            "id": 16,
+            "title": "Apple (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+            "category": "सामान्य",
+            "price": 1.99,
+            "discountPercentage": 12.62,
+            "rating": 4.19,
+            "stock": 8,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-16",
+            "weight": 2,
+            "dimensions": {
+                "width": 26,
+                "height": 19,
+                "depth": 23
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 3690138462658
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/apple\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/apple\/thumbnail.webp"
+        },
+        {
+            "id": 17,
+            "title": "Beef Steak (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+            "category": "सामान्य",
+            "price": 12.99,
+            "discountPercentage": 9.61,
+            "rating": 4.47,
+            "stock": 86,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-17",
+            "weight": 3,
+            "dimensions": {
+                "width": 15,
+                "height": 20,
+                "depth": 17
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 4152305081326
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/beef-steak\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/beef-steak\/thumbnail.webp"
+        },
+        {
+            "id": 18,
+            "title": "Cat Food (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+            "category": "सामान्य",
+            "price": 8.99,
+            "discountPercentage": 9.58,
+            "rating": 3.13,
+            "stock": 46,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-18",
+            "weight": 5,
+            "dimensions": {
+                "width": 24,
+                "height": 28,
+                "depth": 18
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 8451833736776
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/cat-food\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/cat-food\/thumbnail.webp"
+        },
+        {
+            "id": 19,
+            "title": "Chicken Meat (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Fresh and tender chicken meat, suitable for various culinary preparations.",
+            "category": "सामान्य",
+            "price": 9.99,
+            "discountPercentage": 13.7,
+            "rating": 3.19,
+            "stock": 97,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-19",
+            "weight": 5,
+            "dimensions": {
+                "width": 15,
+                "height": 10,
+                "depth": 27
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9913857993145
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/chicken-meat\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/chicken-meat\/2.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/chicken-meat\/thumbnail.webp"
+        },
+        {
+            "id": 20,
+            "title": "Cooking Oil (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+            "category": "सामान्य",
+            "price": 4.99,
+            "discountPercentage": 9.33,
+            "rating": 4.8,
+            "stock": 10,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-20",
+            "weight": 3,
+            "dimensions": {
+                "width": 29,
+                "height": 20,
+                "depth": 10
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 8865387555535
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/cooking-oil\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/cooking-oil\/thumbnail.webp"
+        },
+        {
+            "id": 21,
+            "title": "Cucumber (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+            "category": "सामान्य",
+            "price": 1.49,
+            "discountPercentage": 0.16,
+            "rating": 4.07,
+            "stock": 84,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-21",
+            "weight": 4,
+            "dimensions": {
+                "width": 20,
+                "height": 21,
+                "depth": 29
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6625695753722
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/cucumber\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/cucumber\/thumbnail.webp"
+        },
+        {
+            "id": 22,
+            "title": "Dog Food (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+            "category": "सामान्य",
+            "price": 10.99,
+            "discountPercentage": 10.27,
+            "rating": 4.55,
+            "stock": 71,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-22",
+            "weight": 1,
+            "dimensions": {
+                "width": 23,
+                "height": 12,
+                "depth": 26
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 7763496129947
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/dog-food\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/dog-food\/thumbnail.webp"
+        },
+        {
+            "id": 23,
+            "title": "Eggs (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+            "category": "सामान्य",
+            "price": 2.99,
+            "discountPercentage": 11.05,
+            "rating": 2.53,
+            "stock": 9,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-23",
+            "weight": 2,
+            "dimensions": {
+                "width": 16,
+                "height": 10,
+                "depth": 14
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6284966943699
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/eggs\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/eggs\/thumbnail.webp"
+        },
+        {
+            "id": 24,
+            "title": "Fish Steak (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Quality fish steak, suitable for grilling, baking, or pan-searing.",
+            "category": "सामान्य",
+            "price": 14.99,
+            "discountPercentage": 4.23,
+            "rating": 3.78,
+            "stock": 74,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-24",
+            "weight": 1,
+            "dimensions": {
+                "width": 24,
+                "height": 28,
+                "depth": 18
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6276720789188
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/fish-steak\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/fish-steak\/thumbnail.webp"
+        },
+        {
+            "id": 25,
+            "title": "Green Bell Pepper (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+            "category": "सामान्य",
+            "price": 1.29,
+            "discountPercentage": 0.16,
+            "rating": 3.25,
+            "stock": 33,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-25",
+            "weight": 3,
+            "dimensions": {
+                "width": 10,
+                "height": 11,
+                "depth": 26
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 3603555871364
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/green-bell-pepper\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/green-bell-pepper\/thumbnail.webp"
+        },
+        {
+            "id": 26,
+            "title": "Green Chili Pepper (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+            "category": "सामान्य",
+            "price": 0.99,
+            "discountPercentage": 1,
+            "rating": 3.66,
+            "stock": 3,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-26",
+            "weight": 2,
+            "dimensions": {
+                "width": 19,
+                "height": 16,
+                "depth": 12
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6917353653533
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/green-chili-pepper\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/green-chili-pepper\/thumbnail.webp"
+        },
+        {
+            "id": 27,
+            "title": "Honey Jar (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+            "category": "सामान्य",
+            "price": 6.99,
+            "discountPercentage": 14.4,
+            "rating": 3.97,
+            "stock": 34,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-27",
+            "weight": 1,
+            "dimensions": {
+                "width": 28,
+                "height": 11,
+                "depth": 12
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 2557520819894
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/honey-jar\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/honey-jar\/thumbnail.webp"
+        },
+        {
+            "id": 28,
+            "title": "Ice Cream (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+            "category": "सामान्य",
+            "price": 5.49,
+            "discountPercentage": 8.69,
+            "rating": 3.39,
+            "stock": 27,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-28",
+            "weight": 4,
+            "dimensions": {
+                "width": 22,
+                "height": 17,
+                "depth": 16
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 8709315662226
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/ice-cream\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/ice-cream\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/ice-cream\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/ice-cream\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/ice-cream\/thumbnail.webp"
+        },
+        {
+            "id": 29,
+            "title": "Juice (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+            "category": "सामान्य",
+            "price": 3.99,
+            "discountPercentage": 12.06,
+            "rating": 3.94,
+            "stock": 50,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-29",
+            "weight": 2,
+            "dimensions": {
+                "width": 15,
+                "height": 10,
+                "depth": 16
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 1076571578757
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/juice\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/juice\/thumbnail.webp"
+        },
+        {
+            "id": 30,
+            "title": "Kiwi (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+            "category": "सामान्य",
+            "price": 2.49,
+            "discountPercentage": 15.22,
+            "rating": 4.93,
+            "stock": 99,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-30",
+            "weight": 4,
+            "dimensions": {
+                "width": 15,
+                "height": 28,
+                "depth": 13
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 7194415790634
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/kiwi\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/kiwi\/thumbnail.webp"
+        },
+        {
+            "id": 31,
+            "title": "Lemon (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Zesty and tangy lemons, versatile for cooking, baking, or making refreshing beverages.",
+            "category": "सामान्य",
+            "price": 0.79,
+            "discountPercentage": 9.7,
+            "rating": 3.53,
+            "stock": 31,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-31",
+            "weight": 3,
+            "dimensions": {
+                "width": 11,
+                "height": 25,
+                "depth": 21
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 1236490323576
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/lemon\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/lemon\/thumbnail.webp"
+        },
+        {
+            "id": 32,
+            "title": "Milk (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Fresh and nutritious milk, a staple for various recipes and daily consumption.",
+            "category": "सामान्य",
+            "price": 3.49,
+            "discountPercentage": 13.74,
+            "rating": 2.61,
+            "stock": 27,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-32",
+            "weight": 5,
+            "dimensions": {
+                "width": 23,
+                "height": 16,
+                "depth": 28
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9227885094590
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/milk\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/milk\/thumbnail.webp"
+        },
+        {
+            "id": 33,
+            "title": "Mulberry (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Sweet and juicy mulberries, perfect for snacking or adding to desserts and cereals.",
+            "category": "सामान्य",
+            "price": 4.99,
+            "discountPercentage": 12.87,
+            "rating": 4.95,
+            "stock": 99,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-33",
+            "weight": 1,
+            "dimensions": {
+                "width": 12,
+                "height": 11,
+                "depth": 18
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 4502215611720
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/mulberry\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/mulberry\/thumbnail.webp"
+        },
+        {
+            "id": 34,
+            "title": "Nescafe Coffee (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Quality coffee from Nescafe, available in various blends for a rich and satisfying cup.",
+            "category": "सामान्य",
+            "price": 7.99,
+            "discountPercentage": 1.59,
+            "rating": 4.82,
+            "stock": 57,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-34",
+            "weight": 4,
+            "dimensions": {
+                "width": 20,
+                "height": 28,
+                "depth": 26
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 1784199100467
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/nescafe-coffee\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/nescafe-coffee\/thumbnail.webp"
+        },
+        {
+            "id": 35,
+            "title": "Potatoes (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Versatile and starchy potatoes, great for roasting, mashing, or as a side dish.",
+            "category": "सामान्य",
+            "price": 2.29,
+            "discountPercentage": 5.38,
+            "rating": 4.81,
+            "stock": 13,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-35",
+            "weight": 2,
+            "dimensions": {
+                "width": 12,
+                "height": 19,
+                "depth": 16
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 8974599327248
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/potatoes\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/potatoes\/thumbnail.webp"
+        },
+        {
+            "id": 36,
+            "title": "Protein Powder (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Nutrient-packed protein powder, ideal for supplementing your diet with essential proteins.",
+            "category": "सामान्य",
+            "price": 19.99,
+            "discountPercentage": 7.59,
+            "rating": 4.18,
+            "stock": 80,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-36",
+            "weight": 4,
+            "dimensions": {
+                "width": 24,
+                "height": 12,
+                "depth": 11
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 5051119024718
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/protein-powder\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/protein-powder\/thumbnail.webp"
+        },
+        {
+            "id": 37,
+            "title": "Red Onions (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Flavorful and aromatic red onions, perfect for adding depth to your savory dishes.",
+            "category": "सामान्य",
+            "price": 1.99,
+            "discountPercentage": 9.9,
+            "rating": 4.2,
+            "stock": 82,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-37",
+            "weight": 2,
+            "dimensions": {
+                "width": 23,
+                "height": 28,
+                "depth": 16
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9690714408573
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/red-onions\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/red-onions\/thumbnail.webp"
+        },
+        {
+            "id": 38,
+            "title": "Rice (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। High-quality rice, a staple for various cuisines and a versatile base for many dishes.",
+            "category": "सामान्य",
+            "price": 5.99,
+            "discountPercentage": 9.29,
+            "rating": 3.18,
+            "stock": 59,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-38",
+            "weight": 1,
+            "dimensions": {
+                "width": 22,
+                "height": 19,
+                "depth": 11
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 2536094861200
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/rice\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/rice\/thumbnail.webp"
+        },
+        {
+            "id": 39,
+            "title": "Soft Drinks (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Assorted soft drinks in various flavors, perfect for refreshing beverages.",
+            "category": "सामान्य",
+            "price": 1.99,
+            "discountPercentage": 17.48,
+            "rating": 4.75,
+            "stock": 53,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-39",
+            "weight": 3,
+            "dimensions": {
+                "width": 12,
+                "height": 11,
+                "depth": 27
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 3813907162588
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/soft-drinks\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/soft-drinks\/thumbnail.webp"
+        },
+        {
+            "id": 40,
+            "title": "Strawberry (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Sweet and succulent strawberries, great for snacking, desserts, or blending into smoothies.",
+            "category": "सामान्य",
+            "price": 3.99,
+            "discountPercentage": 1.12,
+            "rating": 3.08,
+            "stock": 46,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-40",
+            "weight": 4,
+            "dimensions": {
+                "width": 11,
+                "height": 12,
+                "depth": 30
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 2253242326808
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/strawberry\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/strawberry\/thumbnail.webp"
+        },
+        {
+            "id": 41,
+            "title": "Tissue Paper Box (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Convenient tissue paper box for everyday use, providing soft and absorbent tissues.",
+            "category": "सामान्य",
+            "price": 2.49,
+            "discountPercentage": 13.28,
+            "rating": 2.69,
+            "stock": 86,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-41",
+            "weight": 1,
+            "dimensions": {
+                "width": 12,
+                "height": 26,
+                "depth": 29
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9930506990566
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/tissue-paper-box\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/tissue-paper-box\/2.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/tissue-paper-box\/thumbnail.webp"
+        },
+        {
+            "id": 42,
+            "title": "Water (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Pure and refreshing bottled water, essential for staying hydrated throughout the day.",
+            "category": "सामान्य",
+            "price": 0.99,
+            "discountPercentage": 14.92,
+            "rating": 4.96,
+            "stock": 53,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-42",
+            "weight": 2,
+            "dimensions": {
+                "width": 24,
+                "height": 22,
+                "depth": 15
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6203025478047
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/water\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/groceries\/water\/thumbnail.webp"
+        },
+        {
+            "id": 43,
+            "title": "Decoration Swing (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+            "category": "सामान्य",
+            "price": 59.99,
+            "discountPercentage": 10.41,
+            "rating": 3.16,
+            "stock": 47,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-43",
+            "weight": 2,
+            "dimensions": {
+                "width": 10,
+                "height": 12,
+                "depth": 21
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 5453661374207
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/decoration-swing\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/decoration-swing\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/decoration-swing\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/decoration-swing\/thumbnail.webp"
+        },
+        {
+            "id": 44,
+            "title": "Family Tree Photo Frame (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+            "category": "सामान्य",
+            "price": 29.99,
+            "discountPercentage": 14.87,
+            "rating": 4.53,
+            "stock": 77,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-44",
+            "weight": 2,
+            "dimensions": {
+                "width": 19,
+                "height": 20,
+                "depth": 23
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 2530427576771
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/family-tree-photo-frame\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/family-tree-photo-frame\/thumbnail.webp"
+        },
+        {
+            "id": 45,
+            "title": "House Showpiece Plant (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+            "category": "सामान्य",
+            "price": 39.99,
+            "discountPercentage": 7.46,
+            "rating": 4.67,
+            "stock": 28,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-45",
+            "weight": 5,
+            "dimensions": {
+                "width": 13,
+                "height": 23,
+                "depth": 21
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 4416265548468
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/house-showpiece-plant\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/house-showpiece-plant\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/house-showpiece-plant\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/house-showpiece-plant\/thumbnail.webp"
+        },
+        {
+            "id": 46,
+            "title": "Plant Pot (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+            "category": "सामान्य",
+            "price": 14.99,
+            "discountPercentage": 6.84,
+            "rating": 3.01,
+            "stock": 59,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-46",
+            "weight": 5,
+            "dimensions": {
+                "width": 27,
+                "height": 23,
+                "depth": 14
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 2959291385281
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/plant-pot\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/plant-pot\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/plant-pot\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/plant-pot\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/plant-pot\/thumbnail.webp"
+        },
+        {
+            "id": 47,
+            "title": "Table Lamp (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+            "category": "सामान्य",
+            "price": 49.99,
+            "discountPercentage": 7.09,
+            "rating": 3.55,
+            "stock": 9,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-47",
+            "weight": 2,
+            "dimensions": {
+                "width": 29,
+                "height": 14,
+                "depth": 29
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 7878094514095
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/table-lamp\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/home-decoration\/table-lamp\/thumbnail.webp"
+        },
+        {
+            "id": 48,
+            "title": "Bamboo Spatula (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes.",
+            "category": "सामान्य",
+            "price": 7.99,
+            "discountPercentage": 2.84,
+            "rating": 3.27,
+            "stock": 37,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-48",
+            "weight": 1,
+            "dimensions": {
+                "width": 12,
+                "height": 14,
+                "depth": 12
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6058133558189
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/bamboo-spatula\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/bamboo-spatula\/thumbnail.webp"
+        },
+        {
+            "id": 49,
+            "title": "Black Aluminium Cup (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection.",
+            "category": "सामान्य",
+            "price": 5.99,
+            "discountPercentage": 15.65,
+            "rating": 4.46,
+            "stock": 75,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-49",
+            "weight": 4,
+            "dimensions": {
+                "width": 26,
+                "height": 10,
+                "depth": 16
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6569785429645
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/black-aluminium-cup\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/black-aluminium-cup\/2.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/black-aluminium-cup\/thumbnail.webp"
+        },
+        {
+            "id": 50,
+            "title": "Black Whisk (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool.",
+            "category": "सामान्य",
+            "price": 9.99,
+            "discountPercentage": 10.24,
+            "rating": 3.9,
+            "stock": 73,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-50",
+            "weight": 5,
+            "dimensions": {
+                "width": 10,
+                "height": 16,
+                "depth": 27
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 8490703308758
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/black-whisk\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/black-whisk\/thumbnail.webp"
+        },
+        {
+            "id": 51,
+            "title": "Boxed Blender (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Boxed Blender is a powerful and compact blender perfect for smoothies, shakes, and more. Its convenient design and multiple functions make it a versatile kitchen appliance.",
+            "category": "सामान्य",
+            "price": 39.99,
+            "discountPercentage": 7.26,
+            "rating": 4.56,
+            "stock": 9,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-51",
+            "weight": 5,
+            "dimensions": {
+                "width": 18,
+                "height": 21,
+                "depth": 19
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 1318987158389
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/boxed-blender\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/boxed-blender\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/boxed-blender\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/boxed-blender\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/boxed-blender\/thumbnail.webp"
+        },
+        {
+            "id": 52,
+            "title": "Carbon Steel Wok (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Carbon Steel Wok is a versatile cooking pan suitable for stir-frying, sautéing, and deep frying. Its sturdy construction ensures even heat distribution for delicious meals.",
+            "category": "सामान्य",
+            "price": 29.99,
+            "discountPercentage": 6.53,
+            "rating": 4.05,
+            "stock": 40,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-52",
+            "weight": 4,
+            "dimensions": {
+                "width": 22,
+                "height": 26,
+                "depth": 27
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 4579035158921
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/carbon-steel-wok\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/carbon-steel-wok\/thumbnail.webp"
+        },
+        {
+            "id": 53,
+            "title": "Chopping Board (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Chopping Board is an essential kitchen accessory for food preparation. Made from durable material, it provides a safe and hygienic surface for cutting and chopping.",
+            "category": "सामान्य",
+            "price": 12.99,
+            "discountPercentage": 8.03,
+            "rating": 3.7,
+            "stock": 14,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-53",
+            "weight": 3,
+            "dimensions": {
+                "width": 13,
+                "height": 29,
+                "depth": 22
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6423435271385
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/chopping-board\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/chopping-board\/thumbnail.webp"
+        },
+        {
+            "id": 54,
+            "title": "Citrus Squeezer Yellow (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Citrus Squeezer in Yellow is a handy tool for extracting juice from citrus fruits. Its vibrant color adds a cheerful touch to your kitchen gadgets.",
+            "category": "सामान्य",
+            "price": 8.99,
+            "discountPercentage": 12.1,
+            "rating": 4.63,
+            "stock": 22,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-54",
+            "weight": 5,
+            "dimensions": {
+                "width": 27,
+                "height": 26,
+                "depth": 30
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 5404690544246
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/citrus-squeezer-yellow\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/citrus-squeezer-yellow\/thumbnail.webp"
+        },
+        {
+            "id": 55,
+            "title": "Egg Slicer (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Egg Slicer is a convenient tool for slicing boiled eggs evenly. It's perfect for salads, sandwiches, and other dishes where sliced eggs are desired.",
+            "category": "सामान्य",
+            "price": 6.99,
+            "discountPercentage": 14.76,
+            "rating": 3.09,
+            "stock": 40,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-55",
+            "weight": 5,
+            "dimensions": {
+                "width": 23,
+                "height": 15,
+                "depth": 18
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9506391813979
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/egg-slicer\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/egg-slicer\/thumbnail.webp"
+        },
+        {
+            "id": 56,
+            "title": "Electric Stove (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Electric Stove provides a portable and efficient cooking solution. Ideal for small kitchens or as an additional cooking surface for various culinary needs.",
+            "category": "सामान्य",
+            "price": 49.99,
+            "discountPercentage": 14.04,
+            "rating": 4.11,
+            "stock": 21,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-56",
+            "weight": 2,
+            "dimensions": {
+                "width": 20,
+                "height": 11,
+                "depth": 16
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 4529500707388
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/electric-stove\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/electric-stove\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/electric-stove\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/electric-stove\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/electric-stove\/thumbnail.webp"
+        },
+        {
+            "id": 57,
+            "title": "Fine Mesh Strainer (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Fine Mesh Strainer is a versatile tool for straining liquids and sifting dry ingredients. Its fine mesh ensures efficient filtering for smooth cooking and baking.",
+            "category": "सामान्य",
+            "price": 9.99,
+            "discountPercentage": 3.5,
+            "rating": 3.04,
+            "stock": 85,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-57",
+            "weight": 4,
+            "dimensions": {
+                "width": 16,
+                "height": 30,
+                "depth": 23
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 7806326585234
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/fine-mesh-strainer\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/fine-mesh-strainer\/thumbnail.webp"
+        },
+        {
+            "id": 58,
+            "title": "Fork (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Fork is a classic utensil for various dining and serving purposes. Its durable and ergonomic design makes it a reliable choice for everyday use.",
+            "category": "सामान्य",
+            "price": 3.99,
+            "discountPercentage": 8.07,
+            "rating": 3.11,
+            "stock": 7,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-58",
+            "weight": 1,
+            "dimensions": {
+                "width": 23,
+                "height": 27,
+                "depth": 14
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 7928801646888
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/fork\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/fork\/thumbnail.webp"
+        },
+        {
+            "id": 59,
+            "title": "Glass (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Glass is a versatile and elegant drinking vessel suitable for a variety of beverages. Its clear design allows you to enjoy the colors and textures of your drinks.",
+            "category": "सामान्य",
+            "price": 4.99,
+            "discountPercentage": 7.92,
+            "rating": 4.02,
+            "stock": 46,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-59",
+            "weight": 4,
+            "dimensions": {
+                "width": 30,
+                "height": 19,
+                "depth": 27
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 7071864841983
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/glass\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/glass\/thumbnail.webp"
+        },
+        {
+            "id": 60,
+            "title": "Grater Black (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Grater in Black is a handy kitchen tool for grating cheese, vegetables, and more. Its sleek design and sharp blades make food preparation efficient and easy.",
+            "category": "सामान्य",
+            "price": 10.99,
+            "discountPercentage": 3.56,
+            "rating": 3.21,
+            "stock": 84,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-60",
+            "weight": 1,
+            "dimensions": {
+                "width": 15,
+                "height": 22,
+                "depth": 30
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 2684135985300
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/grater-black\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/grater-black\/thumbnail.webp"
+        },
+        {
+            "id": 61,
+            "title": "Hand Blender (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Hand Blender is a versatile kitchen appliance for blending, pureeing, and mixing. Its compact design and powerful motor make it a convenient tool for various recipes.",
+            "category": "सामान्य",
+            "price": 34.99,
+            "discountPercentage": 17.02,
+            "rating": 3.86,
+            "stock": 84,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-61",
+            "weight": 2,
+            "dimensions": {
+                "width": 15,
+                "height": 20,
+                "depth": 12
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 7536586585793
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/hand-blender\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/hand-blender\/thumbnail.webp"
+        },
+        {
+            "id": 62,
+            "title": "Ice Cube Tray (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Ice Cube Tray is a practical accessory for making ice cubes in various shapes. Perfect for keeping your drinks cool and adding a fun element to your beverages.",
+            "category": "सामान्य",
+            "price": 5.99,
+            "discountPercentage": 0.63,
+            "rating": 4.71,
+            "stock": 13,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-62",
+            "weight": 4,
+            "dimensions": {
+                "width": 11,
+                "height": 26,
+                "depth": 30
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6793185520493
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/ice-cube-tray\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/ice-cube-tray\/thumbnail.webp"
+        },
+        {
+            "id": 63,
+            "title": "Kitchen Sieve (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Kitchen Sieve is a versatile tool for sifting and straining dry and wet ingredients. Its fine mesh design ensures smooth results in your cooking and baking.",
+            "category": "सामान्य",
+            "price": 7.99,
+            "discountPercentage": 18.91,
+            "rating": 3.09,
+            "stock": 68,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-63",
+            "weight": 1,
+            "dimensions": {
+                "width": 10,
+                "height": 12,
+                "depth": 11
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 7587504842073
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/kitchen-sieve\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/kitchen-sieve\/thumbnail.webp"
+        },
+        {
+            "id": 64,
+            "title": "Knife (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Knife is an essential kitchen tool for chopping, slicing, and dicing. Its sharp blade and ergonomic handle make it a reliable choice for food preparation.",
+            "category": "सामान्य",
+            "price": 14.99,
+            "discountPercentage": 18.86,
+            "rating": 3.26,
+            "stock": 7,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-64",
+            "weight": 5,
+            "dimensions": {
+                "width": 25,
+                "height": 11,
+                "depth": 28
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 7647184782172
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/knife\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/knife\/thumbnail.webp"
+        },
+        {
+            "id": 65,
+            "title": "Lunch Box (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Lunch Box is a convenient and portable container for packing and carrying your meals. With compartments for different foods, it's perfect for on-the-go dining.",
+            "category": "सामान्य",
+            "price": 12.99,
+            "discountPercentage": 10.34,
+            "rating": 4.93,
+            "stock": 94,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-65",
+            "weight": 3,
+            "dimensions": {
+                "width": 20,
+                "height": 26,
+                "depth": 22
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 4981023118437
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/lunch-box\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/lunch-box\/thumbnail.webp"
+        },
+        {
+            "id": 66,
+            "title": "Microwave Oven (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Microwave Oven is a versatile kitchen appliance for quick and efficient cooking, reheating, and defrosting. Its compact size makes it suitable for various kitchen setups.",
+            "category": "सामान्य",
+            "price": 89.99,
+            "discountPercentage": 12.13,
+            "rating": 4.82,
+            "stock": 59,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-66",
+            "weight": 3,
+            "dimensions": {
+                "width": 28,
+                "height": 24,
+                "depth": 16
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 8488491130804
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/microwave-oven\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/microwave-oven\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/microwave-oven\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/microwave-oven\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/microwave-oven\/thumbnail.webp"
+        },
+        {
+            "id": 67,
+            "title": "Mug Tree Stand (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Mug Tree Stand is a stylish and space-saving solution for organizing your mugs. Keep your favorite mugs easily accessible and neatly displayed in your kitchen.",
+            "category": "सामान्य",
+            "price": 15.99,
+            "discountPercentage": 9.25,
+            "rating": 2.64,
+            "stock": 88,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-67",
+            "weight": 3,
+            "dimensions": {
+                "width": 26,
+                "height": 25,
+                "depth": 12
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 2226766702956
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/mug-tree-stand\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/mug-tree-stand\/2.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/mug-tree-stand\/thumbnail.webp"
+        },
+        {
+            "id": 68,
+            "title": "Pan (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Pan is a versatile and essential cookware item for frying, sautéing, and cooking various dishes. Its non-stick coating ensures easy food release and cleanup.",
+            "category": "सामान्य",
+            "price": 24.99,
+            "discountPercentage": 3,
+            "rating": 2.79,
+            "stock": 90,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-68",
+            "weight": 1,
+            "dimensions": {
+                "width": 21,
+                "height": 29,
+                "depth": 16
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6204119851905
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/pan\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/pan\/thumbnail.webp"
+        },
+        {
+            "id": 69,
+            "title": "Plate (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Plate is a classic and essential dishware item for serving meals. Its durable and stylish design makes it suitable for everyday use or special occasions.",
+            "category": "सामान्य",
+            "price": 3.99,
+            "discountPercentage": 7.31,
+            "rating": 3.65,
+            "stock": 66,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-69",
+            "weight": 4,
+            "dimensions": {
+                "width": 21,
+                "height": 17,
+                "depth": 19
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 2543159614788
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/plate\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/plate\/thumbnail.webp"
+        },
+        {
+            "id": 70,
+            "title": "Red Tongs (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Red Tongs are versatile kitchen tongs suitable for various cooking and serving tasks. Their vibrant color adds a pop of excitement to your kitchen utensils.",
+            "category": "सामान्य",
+            "price": 6.99,
+            "discountPercentage": 14.52,
+            "rating": 4.42,
+            "stock": 82,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-70",
+            "weight": 3,
+            "dimensions": {
+                "width": 14,
+                "height": 22,
+                "depth": 11
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 3097820887769
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/red-tongs\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/red-tongs\/thumbnail.webp"
+        },
+        {
+            "id": 71,
+            "title": "Silver Pot With Glass Cap (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Silver Pot with Glass Cap is a stylish and functional cookware item for boiling, simmering, and preparing delicious meals. Its glass cap allows you to monitor cooking progress.",
+            "category": "सामान्य",
+            "price": 39.99,
+            "discountPercentage": 5.7,
+            "rating": 3.22,
+            "stock": 40,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-71",
+            "weight": 2,
+            "dimensions": {
+                "width": 21,
+                "height": 23,
+                "depth": 17
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9218013301751
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/silver-pot-with-glass-cap\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/silver-pot-with-glass-cap\/thumbnail.webp"
+        },
+        {
+            "id": 72,
+            "title": "Slotted Turner (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Slotted Turner is a kitchen utensil designed for flipping and turning food items. Its slotted design allows excess liquid to drain, making it ideal for frying and sautéing.",
+            "category": "सामान्य",
+            "price": 8.99,
+            "discountPercentage": 13.35,
+            "rating": 3.4,
+            "stock": 88,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-72",
+            "weight": 1,
+            "dimensions": {
+                "width": 12,
+                "height": 21,
+                "depth": 25
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9883465319477
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/slotted-turner\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/slotted-turner\/thumbnail.webp"
+        },
+        {
+            "id": 73,
+            "title": "Spice Rack (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Spice Rack is a convenient organizer for your spices and seasonings. Keep your kitchen essentials within reach and neatly arranged with this stylish spice rack.",
+            "category": "सामान्य",
+            "price": 19.99,
+            "discountPercentage": 12.09,
+            "rating": 4.87,
+            "stock": 79,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-73",
+            "weight": 5,
+            "dimensions": {
+                "width": 12,
+                "height": 29,
+                "depth": 24
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 8528067041120
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/spice-rack\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/spice-rack\/thumbnail.webp"
+        },
+        {
+            "id": 74,
+            "title": "Spoon (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Spoon is a versatile kitchen utensil for stirring, serving, and tasting. Its ergonomic design and durable construction make it an essential tool for every kitchen.",
+            "category": "सामान्य",
+            "price": 4.99,
+            "discountPercentage": 1.53,
+            "rating": 4.03,
+            "stock": 59,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-74",
+            "weight": 1,
+            "dimensions": {
+                "width": 26,
+                "height": 24,
+                "depth": 17
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 3032373382827
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/spoon\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/spoon\/thumbnail.webp"
+        },
+        {
+            "id": 75,
+            "title": "Tray (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Tray is a functional and decorative item for serving snacks, appetizers, or drinks. Its stylish design makes it a versatile accessory for entertaining guests.",
+            "category": "सामान्य",
+            "price": 16.99,
+            "discountPercentage": 7.48,
+            "rating": 4.62,
+            "stock": 71,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-75",
+            "weight": 5,
+            "dimensions": {
+                "width": 29,
+                "height": 21,
+                "depth": 12
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 8102363944094
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/tray\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/tray\/thumbnail.webp"
+        },
+        {
+            "id": 76,
+            "title": "Wooden Rolling Pin (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Wooden Rolling Pin is a classic kitchen tool for rolling out dough for baking. Its smooth surface and sturdy handles make it easy to achieve uniform thickness.",
+            "category": "सामान्य",
+            "price": 11.99,
+            "discountPercentage": 9.75,
+            "rating": 2.92,
+            "stock": 80,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-76",
+            "weight": 5,
+            "dimensions": {
+                "width": 27,
+                "height": 20,
+                "depth": 29
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 3077517244953
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/wooden-rolling-pin\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/wooden-rolling-pin\/thumbnail.webp"
+        },
+        {
+            "id": 77,
+            "title": "Yellow Peeler (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Yellow Peeler is a handy tool for peeling fruits and vegetables with ease. Its bright yellow color adds a cheerful touch to your kitchen gadgets.",
+            "category": "सामान्य",
+            "price": 5.99,
+            "discountPercentage": 12.48,
+            "rating": 4.24,
+            "stock": 35,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "जनरल ब्रांड",
+            "sku": "SKU-77",
+            "weight": 4,
+            "dimensions": {
+                "width": 15,
+                "height": 16,
+                "depth": 12
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 5279174913527
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/yellow-peeler\/1.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/kitchen-accessories\/yellow-peeler\/thumbnail.webp"
+        },
+        {
+            "id": 78,
+            "title": "Apple MacBook Pro 14 Inch Space Grey (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+            "category": "सामान्य",
+            "price": 1999.99,
+            "discountPercentage": 4.69,
+            "rating": 3.65,
+            "stock": 24,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Apple",
+            "sku": "SKU-78",
+            "weight": 1,
+            "dimensions": {
+                "width": 14,
+                "height": 11,
+                "depth": 11
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9629312289539
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/apple-macbook-pro-14-inch-space-grey\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/apple-macbook-pro-14-inch-space-grey\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/apple-macbook-pro-14-inch-space-grey\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/apple-macbook-pro-14-inch-space-grey\/thumbnail.webp"
+        },
+        {
+            "id": 79,
+            "title": "Asus Zenbook Pro Dual Screen Laptop (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+            "category": "सामान्य",
+            "price": 1799.99,
+            "discountPercentage": 11.14,
+            "rating": 3.95,
+            "stock": 45,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Asus",
+            "sku": "SKU-79",
+            "weight": 5,
+            "dimensions": {
+                "width": 25,
+                "height": 18,
+                "depth": 10
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 1682408932809
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/asus-zenbook-pro-dual-screen-laptop\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/asus-zenbook-pro-dual-screen-laptop\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/asus-zenbook-pro-dual-screen-laptop\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/asus-zenbook-pro-dual-screen-laptop\/thumbnail.webp"
+        },
+        {
+            "id": 80,
+            "title": "Huawei Matebook X Pro (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+            "category": "सामान्य",
+            "price": 1399.99,
+            "discountPercentage": 9.38,
+            "rating": 4.98,
+            "stock": 75,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Huawei",
+            "sku": "SKU-80",
+            "weight": 3,
+            "dimensions": {
+                "width": 10,
+                "height": 15,
+                "depth": 15
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9247476445032
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/huawei-matebook-x-pro\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/huawei-matebook-x-pro\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/huawei-matebook-x-pro\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/huawei-matebook-x-pro\/thumbnail.webp"
+        },
+        {
+            "id": 81,
+            "title": "Lenovo Yoga 920 (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+            "category": "सामान्य",
+            "price": 1099.99,
+            "discountPercentage": 6.55,
+            "rating": 2.86,
+            "stock": 40,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Lenovo",
+            "sku": "SKU-81",
+            "weight": 5,
+            "dimensions": {
+                "width": 30,
+                "height": 24,
+                "depth": 17
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6573160197025
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/lenovo-yoga-920\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/lenovo-yoga-920\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/lenovo-yoga-920\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/lenovo-yoga-920\/thumbnail.webp"
+        },
+        {
+            "id": 82,
+            "title": "New DELL XPS 13 9300 Laptop (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+            "category": "सामान्य",
+            "price": 1499.99,
+            "discountPercentage": 11.89,
+            "rating": 2.67,
+            "stock": 74,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Dell",
+            "sku": "SKU-82",
+            "weight": 3,
+            "dimensions": {
+                "width": 25,
+                "height": 28,
+                "depth": 24
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 1013591346875
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/new-dell-xps-13-9300-laptop\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/new-dell-xps-13-9300-laptop\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/new-dell-xps-13-9300-laptop\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/laptops\/new-dell-xps-13-9300-laptop\/thumbnail.webp"
+        },
+        {
+            "id": 83,
+            "title": "Blue & Black Check Shirt (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+            "category": "सामान्य",
+            "price": 29.99,
+            "discountPercentage": 15.35,
+            "rating": 3.64,
+            "stock": 38,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Fashion Trends",
+            "sku": "SKU-83",
+            "weight": 1,
+            "dimensions": {
+                "width": 11,
+                "height": 18,
+                "depth": 25
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 3029933293986
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/blue-&-black-check-shirt\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/blue-&-black-check-shirt\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/blue-&-black-check-shirt\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/blue-&-black-check-shirt\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/blue-&-black-check-shirt\/thumbnail.webp"
+        },
+        {
+            "id": 84,
+            "title": "Gigabyte Aorus Men Tshirt (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+            "category": "सामान्य",
+            "price": 24.99,
+            "discountPercentage": 0.94,
+            "rating": 3.18,
+            "stock": 90,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Gigabyte",
+            "sku": "SKU-84",
+            "weight": 5,
+            "dimensions": {
+                "width": 19,
+                "height": 24,
+                "depth": 18
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6160425178675
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/gigabyte-aorus-men-tshirt\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/gigabyte-aorus-men-tshirt\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/gigabyte-aorus-men-tshirt\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/gigabyte-aorus-men-tshirt\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/gigabyte-aorus-men-tshirt\/thumbnail.webp"
+        },
+        {
+            "id": 85,
+            "title": "Man Plaid Shirt (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+            "category": "सामान्य",
+            "price": 34.99,
+            "discountPercentage": 19.5,
+            "rating": 3.46,
+            "stock": 82,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Classic Wear",
+            "sku": "SKU-85",
+            "weight": 1,
+            "dimensions": {
+                "width": 17,
+                "height": 23,
+                "depth": 12
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 5495514065546
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/man-plaid-shirt\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/man-plaid-shirt\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/man-plaid-shirt\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/man-plaid-shirt\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/man-plaid-shirt\/thumbnail.webp"
+        },
+        {
+            "id": 86,
+            "title": "Man Short Sleeve Shirt (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
+            "category": "सामान्य",
+            "price": 19.99,
+            "discountPercentage": 6.83,
+            "rating": 2.9,
+            "stock": 2,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Casual Comfort",
+            "sku": "SKU-86",
+            "weight": 4,
+            "dimensions": {
+                "width": 14,
+                "height": 16,
+                "depth": 15
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9146492533954
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/man-short-sleeve-shirt\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/man-short-sleeve-shirt\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/man-short-sleeve-shirt\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/man-short-sleeve-shirt\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/man-short-sleeve-shirt\/thumbnail.webp"
+        },
+        {
+            "id": 87,
+            "title": "Men Check Shirt (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+            "category": "सामान्य",
+            "price": 27.99,
+            "discountPercentage": 11.38,
+            "rating": 2.72,
+            "stock": 95,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Urban Chic",
+            "sku": "SKU-87",
+            "weight": 1,
+            "dimensions": {
+                "width": 23,
+                "height": 13,
+                "depth": 29
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 7843822060306
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/men-check-shirt\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/men-check-shirt\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/men-check-shirt\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/men-check-shirt\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-shirts\/men-check-shirt\/thumbnail.webp"
+        },
+        {
+            "id": 88,
+            "title": "Nike Air Jordan 1 Red And Black (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+            "category": "सामान्य",
+            "price": 149.99,
+            "discountPercentage": 4.12,
+            "rating": 4.77,
+            "stock": 7,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Nike",
+            "sku": "SKU-88",
+            "weight": 5,
+            "dimensions": {
+                "width": 15,
+                "height": 17,
+                "depth": 14
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 5788071510801
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/nike-air-jordan-1-red-and-black\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/nike-air-jordan-1-red-and-black\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/nike-air-jordan-1-red-and-black\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/nike-air-jordan-1-red-and-black\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/nike-air-jordan-1-red-and-black\/thumbnail.webp"
+        },
+        {
+            "id": 89,
+            "title": "Nike Baseball Cleats (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
+            "category": "सामान्य",
+            "price": 79.99,
+            "discountPercentage": 18.04,
+            "rating": 3.88,
+            "stock": 12,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Nike",
+            "sku": "SKU-89",
+            "weight": 3,
+            "dimensions": {
+                "width": 22,
+                "height": 27,
+                "depth": 17
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 3381673705942
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/nike-baseball-cleats\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/nike-baseball-cleats\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/nike-baseball-cleats\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/nike-baseball-cleats\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/nike-baseball-cleats\/thumbnail.webp"
+        },
+        {
+            "id": 90,
+            "title": "Puma Future Rider Trainers (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+            "category": "सामान्य",
+            "price": 89.99,
+            "discountPercentage": 4.2,
+            "rating": 4.9,
+            "stock": 90,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Puma",
+            "sku": "SKU-90",
+            "weight": 3,
+            "dimensions": {
+                "width": 22,
+                "height": 28,
+                "depth": 16
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9111170301217
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/puma-future-rider-trainers\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/puma-future-rider-trainers\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/puma-future-rider-trainers\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/puma-future-rider-trainers\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/puma-future-rider-trainers\/thumbnail.webp"
+        },
+        {
+            "id": 91,
+            "title": "Sports Sneakers Off White & Red (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
+            "category": "सामान्य",
+            "price": 119.99,
+            "discountPercentage": 4.97,
+            "rating": 4.77,
+            "stock": 17,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Off White",
+            "sku": "SKU-91",
+            "weight": 1,
+            "dimensions": {
+                "width": 29,
+                "height": 21,
+                "depth": 21
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9713764275687
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/sports-sneakers-off-white-&-red\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/sports-sneakers-off-white-&-red\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/sports-sneakers-off-white-&-red\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/sports-sneakers-off-white-&-red\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/sports-sneakers-off-white-&-red\/thumbnail.webp"
+        },
+        {
+            "id": 92,
+            "title": "Sports Sneakers Off White Red (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
+            "category": "सामान्य",
+            "price": 109.99,
+            "discountPercentage": 0.04,
+            "rating": 4.69,
+            "stock": 62,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Off White",
+            "sku": "SKU-92",
+            "weight": 1,
+            "dimensions": {
+                "width": 23,
+                "height": 20,
+                "depth": 13
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9611554979000
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/sports-sneakers-off-white-red\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/sports-sneakers-off-white-red\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/sports-sneakers-off-white-red\/3.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/sports-sneakers-off-white-red\/4.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-shoes\/sports-sneakers-off-white-red\/thumbnail.webp"
+        },
+        {
+            "id": 93,
+            "title": "Brown Leather Belt Watch (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+            "category": "सामान्य",
+            "price": 89.99,
+            "discountPercentage": 5.99,
+            "rating": 4.19,
+            "stock": 32,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Fashion Timepieces",
+            "sku": "SKU-93",
+            "weight": 5,
+            "dimensions": {
+                "width": 21,
+                "height": 29,
+                "depth": 18
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 9262654905348
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/brown-leather-belt-watch\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/brown-leather-belt-watch\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/brown-leather-belt-watch\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/brown-leather-belt-watch\/thumbnail.webp"
+        },
+        {
+            "id": 94,
+            "title": "Longines Master Collection (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication.",
+            "category": "सामान्य",
+            "price": 1499.99,
+            "discountPercentage": 17.24,
+            "rating": 3.87,
+            "stock": 100,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Longines",
+            "sku": "SKU-94",
+            "weight": 5,
+            "dimensions": {
+                "width": 26,
+                "height": 25,
+                "depth": 20
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6653816411252
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/longines-master-collection\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/longines-master-collection\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/longines-master-collection\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/longines-master-collection\/thumbnail.webp"
+        },
+        {
+            "id": 95,
+            "title": "Rolex Cellini Date Black Dial (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Rolex Cellini Date with Black Dial is a classic and prestigious watch. With a black dial and date complication, it exudes sophistication and is a symbol of Rolex's heritage.",
+            "category": "सामान्य",
+            "price": 8999.99,
+            "discountPercentage": 8.88,
+            "rating": 4.97,
+            "stock": 40,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Rolex",
+            "sku": "SKU-95",
+            "weight": 2,
+            "dimensions": {
+                "width": 20,
+                "height": 15,
+                "depth": 12
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 4524889190412
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-cellini-date-black-dial\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-cellini-date-black-dial\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-cellini-date-black-dial\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-cellini-date-black-dial\/thumbnail.webp"
+        },
+        {
+            "id": 96,
+            "title": "Rolex Cellini Moonphase (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Rolex Cellini Moonphase is a masterpiece of horology, featuring a moon phase complication and exquisite design. It reflects Rolex's commitment to precision and elegance.",
+            "category": "सामान्य",
+            "price": 12999.99,
+            "discountPercentage": 17.52,
+            "rating": 2.58,
+            "stock": 36,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Rolex",
+            "sku": "SKU-96",
+            "weight": 2,
+            "dimensions": {
+                "width": 30,
+                "height": 13,
+                "depth": 23
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 1221502488843
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-cellini-moonphase\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-cellini-moonphase\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-cellini-moonphase\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-cellini-moonphase\/thumbnail.webp"
+        },
+        {
+            "id": 97,
+            "title": "Rolex Datejust (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Rolex Datejust is an iconic and versatile timepiece with a date window. Known for its timeless design and reliability, it's a symbol of Rolex's watchmaking excellence.",
+            "category": "सामान्य",
+            "price": 10999.99,
+            "discountPercentage": 3.73,
+            "rating": 3.66,
+            "stock": 86,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Rolex",
+            "sku": "SKU-97",
+            "weight": 5,
+            "dimensions": {
+                "width": 10,
+                "height": 20,
+                "depth": 18
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 6343832008129
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-datejust\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-datejust\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-datejust\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-datejust\/thumbnail.webp"
+        },
+        {
+            "id": 98,
+            "title": "Rolex Submariner Watch (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Rolex Submariner is a legendary dive watch with a rich history. Known for its durability and water resistance, it's a symbol of adventure and exploration.",
+            "category": "सामान्य",
+            "price": 13999.99,
+            "discountPercentage": 5.05,
+            "rating": 2.69,
+            "stock": 55,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Rolex",
+            "sku": "SKU-98",
+            "weight": 1,
+            "dimensions": {
+                "width": 20,
+                "height": 27,
+                "depth": 22
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 7929114336428
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-submariner-watch\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-submariner-watch\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-submariner-watch\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mens-watches\/rolex-submariner-watch\/thumbnail.webp"
+        },
+        {
+            "id": 99,
+            "title": "Amazon Echo Plus (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+            "category": "सामान्य",
+            "price": 99.99,
+            "discountPercentage": 12.07,
+            "rating": 4.99,
+            "stock": 61,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Amazon",
+            "sku": "SKU-99",
+            "weight": 4,
+            "dimensions": {
+                "width": 21,
+                "height": 27,
+                "depth": 13
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 7137882256687
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mobile-accessories\/amazon-echo-plus\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mobile-accessories\/amazon-echo-plus\/2.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mobile-accessories\/amazon-echo-plus\/thumbnail.webp"
+        },
+        {
+            "id": 100,
+            "title": "Apple Airpods (हिंदी)",
+            "description": "यह एक उच्च गुणवत्ता वाला उत्पाद है। The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+            "category": "सामान्य",
+            "price": 129.99,
+            "discountPercentage": 15.54,
+            "rating": 4.15,
+            "stock": 67,
+            "tags": [
+                "उत्पाद",
+                "लोकप्रिय"
+            ],
+            "brand": "Apple",
+            "sku": "SKU-100",
+            "weight": 2,
+            "dimensions": {
+                "width": 23,
+                "height": 16,
+                "depth": 20
+            },
+            "warrantyInformation": "1 वर्ष की वारंटी",
+            "shippingInformation": "3-7 कार्यदिवस में डिलीवरी",
+            "availabilityStatus": "स्टॉक में उपलब्ध",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "बहुत अच्छा उत्पाद",
+                    "reviewerName": "ग्राहक"
+                }
+            ],
+            "returnPolicy": "7 दिन की रिटर्न नीति",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2026-01-02T09:54:27+00:00",
+                "updatedAt": "2026-01-02T09:54:27+00:00",
+                "barcode": 2497329274682
+            },
+            "images": [
+                "https:\/\/cdn.dummyjson.com\/product-images\/mobile-accessories\/apple-airpods\/1.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mobile-accessories\/apple-airpods\/2.webp",
+                "https:\/\/cdn.dummyjson.com\/product-images\/mobile-accessories\/apple-airpods\/3.webp"
+            ],
+            "thumbnail": "https:\/\/cdn.dummyjson.com\/product-images\/mobile-accessories\/apple-airpods\/thumbnail.webp"
+        }
+    ]
+}
