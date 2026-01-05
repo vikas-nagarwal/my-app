@@ -1,8 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-// App.js ya Productapi.js
 import "bootstrap/dist/css/bootstrap.min.css";
-import "bootstrap/dist/js/bootstrap.bundle.min.js"; // ✅ required for offcanvas
+import "bootstrap/dist/js/bootstrap.bundle.min.js"; // required for offcanvas
 
 function Sidebar({ categories, selectedCategory, setSelectedCategory }) {
   const navigate = useNavigate();
@@ -30,15 +29,17 @@ function Sidebar({ categories, selectedCategory, setSelectedCategory }) {
                 key={idx}
                 style={{
                   cursor: "pointer",
-                  fontWeight: selectedCategory === cat ? "bold" : "normal",
-                  color: selectedCategory === cat ? "blue" : "black",
+                  fontWeight: selectedCategory === cat.name ? "bold" : "normal",
+                  color: selectedCategory === cat.name ? "blue" : "black",
                   marginBottom: "8px",
                 }}
                 onClick={() =>
-                  setSelectedCategory(selectedCategory === cat ? "" : cat)
+                  setSelectedCategory(
+                    selectedCategory === cat.name ? "" : cat.name
+                  )
                 }
               >
-                {cat.toUpperCase()}
+                {cat.name.toUpperCase()} ({cat.count})
               </li>
             ))}
             <li
@@ -82,16 +83,18 @@ function Sidebar({ categories, selectedCategory, setSelectedCategory }) {
                 key={idx}
                 style={{
                   cursor: "pointer",
-                  fontWeight: selectedCategory === cat ? "bold" : "normal",
-                  color: selectedCategory === cat ? "blue" : "black",
+                  fontWeight: selectedCategory === cat.name ? "bold" : "normal",
+                  color: selectedCategory === cat.name ? "blue" : "black",
                   marginBottom: "8px",
                 }}
-                onClick={() => {
-                  setSelectedCategory(selectedCategory === cat ? "" : cat);
-                }}
+                onClick={() =>
+                  setSelectedCategory(
+                    selectedCategory === cat.name ? "" : cat.name
+                  )
+                }
                 data-bs-dismiss="offcanvas"
               >
-                {cat.toUpperCase()}
+                {cat.name.toUpperCase()} ({cat.count})
               </li>
             ))}
             <li
