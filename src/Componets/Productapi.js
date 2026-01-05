@@ -9,18 +9,18 @@ import { LanguageContext } from "./LanguageContext";
 function Productapi() {
   const itemsPerPage = 8;
   const [currentPage, setCurrentPage] = useState(1);
+  const [sortOrder, setSortOrder] = useState("price-asc");
 
   const { lang, changeLanguage, translations } = useContext(LanguageContext);
   const navigate = useNavigate();
-  const [data, setData] = useState([]); // Original fetched data
+  const [displayProducts, setDisplayProducts] = useState([]);
   const [categories, setCategories] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("all");
-  const [displayProducts, setDisplayProducts] = useState([]);
 
   const gridRef = useRef(null);
 
-  // Reset page when filter/search/lang changes
+  // Reset page on filter/search/lang change
   useEffect(() => {
     setCurrentPage(1);
   }, [searchTerm, selectedCategory, lang]);
@@ -37,11 +37,11 @@ function Productapi() {
         // Category count
         const categoryCount = {};
         products.forEach((item) => {
-          categoryCount[item.category] =
-            (categoryCount[item.category] || 0) + 1;
+          const cat = item.category || "other";
+          categoryCount[cat] = (categoryCount[cat] || 0) + 1;
         });
 
-        // Category array with count
+        // Category array for Sidebar
         const categoryArray = [
           { name: "all", count: products.length },
           ...Object.keys(categoryCount).map((cat) => ({
@@ -50,29 +50,36 @@ function Productapi() {
           })),
         ];
 
-        setData(products);
         setDisplayProducts(products);
         setCategories(categoryArray);
       })
       .catch((err) => console.error(err));
   }, [lang]);
 
-  // Filter products
+  // ✅ Filtered Data
   const filteredData = displayProducts.filter((item) => {
-    const title = item.title || ""; // default empty string
-    const brand = item.brand || ""; // default empty string
-
+    const title = item.title || "";
+    const brand = item.brand || "";
     const matchesSearch =
       title.toLowerCase().includes(searchTerm.toLowerCase()) ||
       brand.toLowerCase().includes(searchTerm.toLowerCase());
-
     const matchesCategory =
       selectedCategory === "all" || item.category === selectedCategory;
-
     return matchesSearch && matchesCategory;
   });
 
-  // Pagination
+  // ✅ Sorting
+  filteredData.sort((a, b) => {
+    if (sortOrder === "price-asc") return (a.price || 0) - (b.price || 0);
+    if (sortOrder === "price-desc") return (b.price || 0) - (a.price || 0);
+    if (sortOrder === "title-asc")
+      return (a.title || "").localeCompare(b.title || "");
+    if (sortOrder === "title-desc")
+      return (b.title || "").localeCompare(a.title || "");
+    return 0;
+  });
+
+  // ✅ Pagination
   const totalPages = Math.ceil(filteredData.length / itemsPerPage);
   const startIndex = (currentPage - 1) * itemsPerPage;
   const paginatedProducts = filteredData.slice(
@@ -90,9 +97,7 @@ function Productapi() {
           $(gridRef.current)
             .children(".product-card")
             .each(function () {
-              const id = Number(
-                $(this).getAttribute("data-id") || $(this).attr("data-id")
-              );
+              const id = Number($(this).attr("data-id"));
               const product = displayProducts.find((p) => p.id === id);
               if (product) newOrder.push(product);
             });
@@ -107,11 +112,11 @@ function Productapi() {
       <div className="container my-4">
         {/* Header */}
         <div className="row mb-4 align-items-center">
-          <div className="col-md-4">
+          <div className="col-md-3">
             <h1>{translations[lang].title}</h1>
           </div>
 
-          <div className="col-md-4">
+          <div className="col-md-3">
             <select
               className="form-select"
               value={lang}
@@ -122,7 +127,7 @@ function Productapi() {
             </select>
           </div>
 
-          <div className="col-md-4">
+          <div className="col-md-3">
             <input
               className="form-control"
               placeholder={translations[lang].search}
@@ -130,9 +135,22 @@ function Productapi() {
               onChange={(e) => setSearchTerm(e.target.value)}
             />
           </div>
+
+          <div className="col-md-3">
+            <select
+              className="form-select mb-3"
+              value={sortOrder}
+              onChange={(e) => setSortOrder(e.target.value)}
+            >
+              <option value="price-asc">Price: Low to High</option>
+              <option value="price-desc">Price: High to Low</option>
+              <option value="title-asc">Title: A → Z</option>
+              <option value="title-desc">Title: Z → A</option>
+            </select>
+          </div>
         </div>
 
-        {/* Main Layout */}
+        {/* Layout */}
         <div className="row">
           {/* Sidebar */}
           <div className="col-md-3">
@@ -157,9 +175,9 @@ function Productapi() {
                     <div className="card h-100">
                       <img src={product.thumbnail} className="card-img-top" />
                       <div className="card-body">
-                        <h6>{product.title}</h6>
-                        <p className="text-danger">${product.price}</p>
-                        <small>{product.brand}</small>
+                        <h6>{product.title || "No Title"}</h6>
+                        <p className="text-danger">${product.price || 0}</p>
+                        <small>{product.brand || "No Brand"}</small>
                       </div>
                     </div>
                   </div>
