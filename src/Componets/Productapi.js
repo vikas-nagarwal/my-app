@@ -115,7 +115,6 @@ function Productapi() {
           <div className="col-md-3">
             <h1>{translations[lang].title}</h1>
           </div>
-
           <div className="col-md-3">
             <select
               className="form-select"

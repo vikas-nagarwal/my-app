@@ -7,6 +7,7 @@ import Cart from "./Componets/Cart";
 import Payment from "./Componets/payment";
 import AddProduct from "./Componets/Addproduct";
 import { LanguageProvider } from "./Componets/LanguageContext";
+import Footer from "./Componets/Footer";
 
 function ProtectedRoute({ children }) {
   const token = localStorage.getItem("token");
@@ -68,6 +69,7 @@ function App() {
 
         <Route path="*" element={<Navigate to="/" />} />
       </Routes>
+      <Footer />
     </LanguageProvider>
   );
 }
