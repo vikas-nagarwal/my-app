@@ -33,7 +33,6 @@ function Productapi() {
       .then((res) => res.json())
       .then((json) => {
         const products = json?.products || [];
-
         // Category count
         const categoryCount = {};
         products.forEach((item) => {
